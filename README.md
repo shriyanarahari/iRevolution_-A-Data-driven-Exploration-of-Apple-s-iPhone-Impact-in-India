@@ -1,1 +1,2 @@
 # iRevolution_-A-Data-driven-Exploration-of-Apple-s-iPhone-Impact-in-India
+This project dives into the evolving footprint of Apple’s iPhone in the Indian market using interactive data visualizations. From sales trends and market share growth to regional preferences and pricing shifts, iRevolution presents a visual narrative of how Apple's flagship product is reshaping India's smartphone ecosystem. Built with a focus on data clarity and visual impact, this repository highlights the intersection of technology, economy, and consumer behavior.
